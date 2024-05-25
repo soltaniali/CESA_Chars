@@ -54,8 +54,8 @@ export default function App() {
     console.log("🚀 ~ handleSubmit ~ isValid:", isValid);
     if (otpString === "cesaiust") {
       toast({
-        // title: "Scheduled: Catch up ",
-        description: "✔ You Win",
+        title: "خرد و دانش و آگاهی دانشمندان / ره سرمنزل مقصود بما آموز ",
+        description: " میدونستین آلن تورینگ نقش خیلی مهمی تو کامپیوتر داشته؟ ",
       }); // Display success notification
     } else {
       toast({
@@ -77,7 +77,8 @@ export default function App() {
               <div className="h-screen flex justify-center text-center items-center">
                 <Card className="h-80 w-fit flex justify-between flex-col">
                   <CardHeader>
-                    <h1>Enter 6 Characters</h1>
+                    <h1>Enter 8 Characters</h1>
+                    <h1>put them in a order that make sense!</h1>
                   </CardHeader>
 
                   <CardContent>
