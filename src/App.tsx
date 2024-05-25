@@ -55,7 +55,7 @@ export default function App() {
     if (otpString === "cesaiust") {
       toast({
         title: "خرد و دانش و آگاهی دانشمندان / ره سرمنزل مقصود بما آموز ",
-        description: " میدونستین آلن تورینگ نقش خیلی مهمی تو کامپیوتر داشته؟ ",
+        description: "  همچنین میگن میتونسنمیدونستین آلن تورینگ نقش خیلی مهمی تو کامپیوتر داشته؟ میگن میتونسته وسایل  و نوشته هاشو نامرئی کنه! ",
       }); // Display success notification
     } else {
       toast({
